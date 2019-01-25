@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>view.jpg</file>
+        <file>body.PNG</file>
+        <file>body1.PNG</file>
+        <file>food.PNG</file>
+        <file>headW.png</file>
+        <file>ui.PNG</file>
+    </qresource>
+</RCC>
